@@ -1,0 +1,13 @@
+{
+  "tasks": [
+    {"text": "Write server.js skeleton", "points": 50, "status": "done"},
+    {"text": "Create index.html", "points": 50, "status": "done"},
+    {"text": "Create style.css", "points": 5, "status": "done"},
+    {"text": "Create script.js", "points": 5, "status": "done"},
+    {"text": "Add style rules to style.css", "points": 50, "status": "todo"},
+    {"text": "Create canvas in index.html", "points": 5, "status": "todo"},
+    {"text": "Add peer review graph drawing to script.js", "points": 200, "status": "todo"},
+    {"text": "Add point distribution graph drawing to script.js", "points": 200, "status": "todo"},
+    {"text": "Add burndown chart drawing to script.js", "points": 300, "status": "todo"}
+  ]
+}
